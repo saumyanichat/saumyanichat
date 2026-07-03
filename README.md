@@ -1,4 +1,4 @@
-# Saumya Deorao Nichat:
+# Saumya Deorao Nichat
 Full Stack Java Developer | MERN Stack Developer | AI Enthusiast | IT Student at PICT Pune<br>🔭 I’m currently working on BinaryStack Technologies<br><br>🌱 I’m currently learning Spring Boot, Microservices, Docker, AWS, System Design and Data Structures & Algorithms<br><br>👨‍💻 Some of my projects are available at https://www.saumyanichat.me/<br><br>💬 Ask me about Java, Spring Boot, MERN Stack, REST APIs, MongoDB, React, C++, DSA and AI Integration<br><br>📫 How to reach me saumyanichat6@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1J5u9zhfovCAesu2Q_o5RT2shMAtUTcNI/view?usp=drive_link
 
 
